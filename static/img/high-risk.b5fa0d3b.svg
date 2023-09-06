@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>high-risk</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.866667 0 0 0 0 0.301961 0 0 0 0 0.203922 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="step1-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="high-risk">
+            <g>
+                <path d="M28,56 C12.517647,56 0,43.4823529 0,28 L56,28 C56,43.4823529 43.4823529,56 28,56 Z" id="路径" fill="#17A278" fill-rule="nonzero" opacity="0.499604725"></path>
+                <path d="M28,5.60000001 C15.6470588,5.60000001 5.59999995,15.6470588 5.59999995,28 C5.59999995,40.3529411 15.6470588,50.4 28,50.4 C40.3529412,50.4 50.4,40.3529412 50.4,28 C50.4,15.6470588 40.3529412,5.60000001 28,5.60000001 Z M28,56 C12.6,56 0,43.4823529 0,28 C0,12.517647 12.6,0 28,0 C43.3999999,0 56,12.6 56,28 C56,43.3999999 43.3999999,56 28,56 Z" id="形状" fill="#17A278" fill-rule="nonzero"></path>
+                <path d="M29.0470588,38.1882353 C26.8235294,35.9647059 21.1411765,22.3764706 21.1411765,22.3764706 C21.1411765,22.3764706 34.8117647,28.1411765 36.9529411,30.2823529 C39.0941176,32.5058823 39.0941176,35.9647059 36.9529411,38.1882353 C34.7294117,40.3294118 31.1882352,40.3294118 29.0470588,38.1882353 Z" id="路径" fill="#17A278" fill-rule="nonzero" transform="translate(29.850000, 31.085294) rotate(180.000000) translate(-29.850000, -31.085294) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
